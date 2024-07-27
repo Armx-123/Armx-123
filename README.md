@@ -25,4 +25,4 @@ Hello! Welcome to my GitHub profile.
 Feel free to explore my repositories and projects. I'm always open to feedback and collaboration. Let's build something amazing together!
 
 ---
-Connect with me on [LinkedIn](https://www.linkedin.com) | Follow me on [Twitter](https://twitter.com)
+
