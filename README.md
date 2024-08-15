@@ -3,7 +3,8 @@
 Hello! Welcome to my GitHub profile.
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/armx-123?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/armx-123?ext=heatmap)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armx-123&layout=compact)
+
 ## Skills
 
 - **Languages:** 
